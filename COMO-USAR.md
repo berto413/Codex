@@ -1,6 +1,6 @@
 # Ruta 242699: descargar y compartir
 
-El archivo **`Ruta242699.html`** contiene la aplicación, las lecciones, las preguntas, el manual y los documentos incluidos. Para usarlo no hacen falta instalaciones ni una cuenta.
+El archivo **`Ruta242699.html`**, edición **1.1.0**, contiene la aplicación, las lecciones, las preguntas, el manual y los documentos incluidos. Para usarlo no hacen falta instalaciones ni una cuenta.
 
 ## Descargar desde GitHub
 
@@ -16,4 +16,12 @@ El manual y los documentos se descargan desde la sección **Fuentes** de la apli
 
 Cada persona conserva su avance en el navegador de su propio equipo. Para respaldarlo debe usar **Exportar progreso** dentro de la aplicación. El archivo entregado no contiene el progreso del remitente.
 
-La aplicación es una preparación independiente y parcial: incluye 13 lecciones y 85 preguntas revisadas. No es una aplicación oficial ni una réplica del examen. La fecha de examen indicada procede de la solicitud y no está confirmada oficialmente.
+La edición ampliada incluye **24 lecciones y 137 preguntas**: 27 de diagnóstico, 60 de práctica y 25 en cada simulacro. Las nuevas lecturas tienen tablas comparativas, ejemplos resueltos paso a paso y recuperación. Los simulacros usan casos originales y muestran el razonamiento después de entregar. Ambos incluyen preguntas de los nueve indicadores, sin ser una cobertura integral del temario.
+
+Si usaste la versión anterior, **exporta tu progreso antes de cambiar de archivo** y luego impórtalo en la nueva aplicación. Se validan y conservan las respuestas, las notas y las evaluaciones anteriores. Las lecturas que recibieron nuevo contenido se reabren para revisión. Una evaluación que ya estaba en curso conserva sus propias preguntas.
+
+También puedes consultar [el análisis de los dos materiales](ANALISIS-DE-LOS-MATERIALES.md) y descargar [el manual ampliado en Word](Manual-Ruta242699.docx). El manual está incluido asimismo dentro del HTML, en **Fuentes y cobertura**.
+
+El nuevo Word y el PDF se analizaron como material secundario. Se corrigieron rótulos cruzados de valores y se registraron diferencias de ficha y convocatoria. Sus claves no se importaron automáticamente. Los documentos nuevos no se republican íntegros; la entrega omite la información de inscripción del Word.
+
+La aplicación es una preparación independiente y parcial. No es oficial ni una réplica del examen. La fecha indicada procede de la solicitud y no está confirmada oficialmente. Competencias y valores son actividades formativas, sin nota ni perfil de respuestas esperado.
